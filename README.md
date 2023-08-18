@@ -93,4 +93,3 @@
 
 # Pandas
 1. [Pandas for data analysis by example](https://www.youtube.com/watch?v=gtjxAH8uaP0)
-2. 
